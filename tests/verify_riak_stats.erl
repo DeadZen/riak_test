@@ -794,7 +794,6 @@ common_stats() ->
         <<"vnode_set_update_time_median">>,
         <<"vnode_set_update_total">>,
         <<"webmachine_version">>,
-        <<"xmerl_version">>,
         <<"yokozuna_version">>
     ].
 
